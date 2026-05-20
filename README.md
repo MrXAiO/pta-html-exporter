@@ -322,22 +322,6 @@ HTML 更接近 PTA 原页面，能更好保留：
 
 ---
 
-## 项目结构建议
-
-```text
-pta-html-exporter/
-├─ src/
-│  └─ pta-html-exporter.user.js
-├─ screenshots/
-│  ├─ panel.png
-│  ├─ exported-html.png
-│  └─ mobile.png
-├─ README.md
-├─ LICENSE
-├─ CHANGELOG.md
-└─ SECURITY.md
-```
-
 ---
 
 ## 贡献
